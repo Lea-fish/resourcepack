@@ -1,0 +1,8 @@
+{
+	"entity.player.hurt": {
+		"sounds": [
+			{ "name": "damage/hurt" }
+		],
+		"subtitle": "Hurt"
+	}
+}
